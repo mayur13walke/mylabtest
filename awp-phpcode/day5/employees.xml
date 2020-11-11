@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "/home/mahesh/Desktop/KDAC-AWP/Day4/employeeschema.dtd">
+<employees>
+  <employee>
+    <eno>One</eno>  
+   <ename> mahesh </ename>
+   <eaddress>pune</eaddress>
+  </employee>
+  
+  <employee>
+    <eno> 200 </eno>  
+   <ename> nilesh </ename>
+   <eaddress>panji</eaddress>
+  </employee>
+  
+  
+  <employee>
+    <eno> 200 </eno>  
+   <ename> rahul </ename>
+   <eaddress>mumbai</eaddress>
+  </employee>
+  
+  
+</employees>

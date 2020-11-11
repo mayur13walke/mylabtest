@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                        xsi:noNamespaceSchemaLocation="/home/mahesh/Desktop/KDAC-AWP/Day5/employee.xsd">
+  <employee>
+    <eno>100</eno>  
+   <ename> mahesh </ename>
+   <eaddress>pune</eaddress>
+  </employee>
+  
+  <employee>
+    <eno> 200 </eno>  
+   <ename> nilesh </ename>
+   <eaddress>panji</eaddress>
+  </employee>
+  
+  
+  <employee>
+    <eno> 200 </eno>  
+   <ename> rahul </ename>
+   <eaddress>mumbai</eaddress>
+  </employee>
+  
+  
+</employees>
